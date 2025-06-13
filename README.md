@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Adam Mukdad
 
-<!--
-**adammukdad/adammukdad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 I'm a cybersecurity engineer focused on building Python tools for cloud visibility, auditing, and access control.
 
-Here are some ideas to get you started:
+## 🧰 Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 [Quantitative Log Scanner](https://github.com/adammukdad/log-scanner-python)  
+Parses log files and visualizes trends to uncover suspicious behavior.
+
+🔹 [AWS S3 Auditor](https://github.com/adammukdad/aws-s3-auditor)  
+Scans AWS S3 buckets for public access and misconfigured permissions.
+
+🔹 [IAM Policy Analyzer](https://github.com/adammukdad/iam-policy-analyzer)  
+Detects overly permissive IAM policies using static analysis.
+
+## 📫 Contact
+
+📍 Based in Chicago, IL  
+📧 adammukdad97@gmail.com | [LinkedIn](https://www.linkedin.com/in/adammukdad/)
+
+
+---
+
+Let’s make cloud infrastructure safer — one repo at a time.
