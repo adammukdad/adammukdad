@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Adam Mukdad
 
 🔐 I'm a cybersecurity engineer focused on building Python tools for cloud visibility, auditing, and access control.
+Below are a few of my project highlights; see pinned repository for a directory to all my projects.
 
 ## 🧰 Featured Projects
 
