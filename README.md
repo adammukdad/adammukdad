@@ -22,8 +22,9 @@ Below are a few of my project highlights; see pinned repository for a directory 
 
 ## 📫 Contact
 
-📍 Based in Chicago, IL  
-📧 adammukdad97@gmail.com | [LinkedIn](https://www.linkedin.com/in/adammukdad/)
+📍 Based in **Chicago, IL**  
+📧 [adammukdad97@gmail.com](mailto:adammukdad97@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/adammukdad/)  
 
 
 ---
