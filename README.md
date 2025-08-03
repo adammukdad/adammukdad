@@ -16,6 +16,10 @@ Below are a few of my project highlights; see pinned repository for a directory 
 🔹 [**Multi-Cloud Threat Intelligence Dashboard**](https://github.com/adammukdad/multi_cloud_threat_intelligence_dashboard)  
   Correlates security alerts from AWS and Azure to reveal real threats across cloud environments.
 
+🔹 [**Secure Cloud Deployment Pipeline**](https://github.com/adammukdad/secure_cloud_deployment_pipeline_terraform)  
+  Hardened CI/CD pipeline with Terraform and Checkov that blocks insecure infrastructure before deployment.
+
+
 ## 📫 Contact
 
 📍 Based in Chicago, IL  
