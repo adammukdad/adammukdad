@@ -1,6 +1,6 @@
 # Hi, I'm Adam Mukdad  
 
-🔐 **Entry-Level Identity & Access Management (IAM) Analyst** with a foundation in IT support and a passion for securing how people access technology.  
+🔐 **Identity & Access Management (IAM)** with a foundation in IT support and a passion for securing how people access technology.  
 I design and build **practical IAM and cloud security solutions** that automate access governance, strengthen zero-trust architectures, and simplify lifecycle management across hybrid and multi-cloud environments.  
 
 My focus is on bridging usability and security — ensuring every identity, policy, and permission is both functional and compliant.  
