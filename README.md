@@ -1,4 +1,4 @@
-# Hi, I'm Adam Mukdad  
+# Adam Mukdad  
 
 🔐 **Identity & Access Management (IAM)** with a foundation in IT support and a passion for securing how people access technology.  
 I design and build **practical IAM and cloud security solutions** that automate access governance, strengthen zero-trust architectures, and simplify lifecycle management across hybrid and multi-cloud environments.  
